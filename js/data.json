@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Klasik Altın Alyans (19-28 ölçü)",
+        "price": {
+            "oldPrice": 6.025,
+            "newPrice": 3.138
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "img/products/product1/1.png",
+            "thumbs": [
+                "img/products/product1/1.png",
+                "img/products/product1/2.png"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "1,12 Karat Baget Pırlanta Yüzük",
+        "price": {
+            "oldPrice": 55.344,
+            "newPrice": 38.731
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "img/products/product2/1.png",
+            "thumbs": [
+                "img/products/product2/1.png",
+                "img/products/product2/2.png"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "1,53 Karat HRD Sertifikalı Tektaş Pırlanta Yüzük",
+        "price": {
+            "oldPrice": 505.794,
+            "newPrice": 354.065
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "img/products/product3/1.png",
+            "thumbs": [
+                "img/products/product3/1.png",
+                "img/products/product3/2.png"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "1,36 Karat Markiz Pırlanta Yüzük",
+        "price": {
+            "oldPrice": 71.706,
+            "newPrice": 50.185
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/products/product4/1.png",
+            "thumbs": [
+                "img/products/product4/1.png",
+                "img/products/product4/2.png"
+                
+            ]
+        }
+    }
+]
